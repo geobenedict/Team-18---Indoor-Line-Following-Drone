@@ -49,6 +49,7 @@ The design validation process included multiple tests, such as:
 - **Straight Line Detection Test**: Ensures the drone follows a straight path.
 - **Curved Path Detection Test**: Validates the drone’s ability to follow a curved line.
 - **T-Junction Detection Test**: Confirms that the drone can detect a T-junction and stop as required.
+- **Battery Drain Test**: Validates the efficiency of the battery's charge and discharge cycles by monitoring voltage levels, runtime, and overall power consumption under operational conditions.
 
 Test results and detailed analysis are provided in the **/Validation-tests** folder.
 
