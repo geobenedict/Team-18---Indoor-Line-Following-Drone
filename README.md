@@ -13,7 +13,7 @@ This project focuses on creating a lightweight, agile drone designed for indoor 
 - Design validation tests for line detection, curve navigation, and T-junction stopping.
 
 ## Repository Structure
-📂 Team-18-Indoor-Line-Following-Drone ├── 📂 Codes/ # Contains all the code for the ESP32-CAM and OpenCV integration ├── 📂 3d-Designs/ # 3D print designs for drone components ├── 📂 BoM/ # Bill of Materials (BoM) and expenses ├── 📂 Validation-tests/ # Design validation tests and results ├── 📂 Hardware-diagrams/ # Diagrams related to drone hardware and setup ├── 📄 README.md # Project overview and repository guide
+📂 Team-18-Indoor-Line-Following-Drone ├── 📂 3d-Designs/ # 3D print designs for drone components ├── 📂 BoM/ # Bill of Materials (BoM) and expenses ├── 📂 Codes/ # Contains all the code for the ESP32-CAM and OpenCV integration  ├── 📂 Validation-tests/ # Design validation tests and results ├── 📂 Hardware-diagrams/ # Diagrams related to drone hardware and setup ├── 📄 README.md # Project overview and repository guide
 
 ## Getting Started
 
